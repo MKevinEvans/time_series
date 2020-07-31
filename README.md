@@ -2,6 +2,7 @@
 #### Study By
 #### JD Kim - Muriel Kosaka -  Gabe Arnold
 
+https://github.com/GabeSArn/time_series/tree/gabe#models_used
 
 [Understanding Data](#understanding)
 

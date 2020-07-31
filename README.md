@@ -21,7 +21,7 @@ https://github.com/GabeSArn/time_series/tree/gabe#models_used
 
 <h3 name='understanding'>Understanding Our Data</h3>
 
-![COVID-19 Cases](./time_series/time_series/graphs/overall_cases.png)
+![COVID-19 Cases](./time_series/graphs/overall_cases.png)
 
 [JHU GitHub](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) 
 
@@ -59,15 +59,15 @@ The final model selected was SARIMAX model. The RMSE Score for the National Case
 Highly populated areas were hit extremely hard. We believe that it is a result of the dense population and high transmission rates. New York City and Cook County (Chicago), had large jumps in the number of people that were initially infected during the lockdown phase, however, data shows a smoothing in the recent rate of cases, even after reopening. It should also be noted that both of these cities instituted a lockdown relatively early and longer in the US.
 </p>
 
-![Cook County/Chicago Confirmed Cases](./time_series/time_series/graphs/chicago_confimed.png)
+![Cook County/Chicago Confirmed Cases](./time_series/graphs/chicago_confimed.png)
     
 <p>
 Recently, the counties of Los Angeles County, California, Harris County, Texas (Dallas), and Maricopa, Arizona (Phoenix), have seen large increases in the number of people that have recently contracted the disease. Los Angeles, even though they instituted a longer lockdown compared to other cities in America, has faced a rapid increase in the number of confirmed cases. Harris County, Texas and Maricopa, Arizona had shorter lockdown periods and are now experiencing a rapid increase in cases after reopening.
 </p>
 
-![Phoenix Metro](./time_series/time_series/graphs/phoenix.png)
+![Phoenix Metro](./time_series/graphs/phoenix.png)
 
-![Harris County, Texas](./time_series/time_series/graphs/harris_county.png)
+![Harris County, Texas](./time_series/graphs/harris_county.png)
 
 <p>
 Additionally, we noticed in median populated (~12,000 People) regions, that had shorter lockdown periods are experiencing high rates of infection.
@@ -83,17 +83,17 @@ Additionally, we noticed in median populated (~12,000 People) regions, that had 
 Death cases were similar to confirmed cases. Large metropolitans that were hit early experienced very high death rates. As we transition to overall state data, we can see New York, California, and Massachusetts are all leading the nation in COVID-19 deaths. 
 </p>
     
-![US Death Count](./time_series/time_series/graphs/top_10_states.png)
+![US Death Count](./time_series/graphs/top_10_states.png)
 
 <h3 name='model_forecasts'>Model Forecasts</h3>
 
 <p>Currently, our models predicted that there will be a continuation of the upward trends in both confirmed cases and death cases, however the amount varied depending on the location. </p>
 
-![Mass State Forecast](./time_series/time_series/graphs/mass_forecast.png)
+![Mass State Forecast](./time_series/graphs/mass_forecast.png)
 
-![New York City Confirmed Cases](./time_series/time_series/graphs/nyc_forecast.png)
+![New York City Confirmed Cases](./time_series/graphs/nyc_forecast.png)
 
-![California State Confirmed Cases](./time_series/time_series/graphs/california.png)
+![California State Confirmed Cases](./time_series/graphs/california.png)
 
 <h3 name='recommendations'>Recommendations</h3>
 
